@@ -1,2 +1,3 @@
-# Struct_Baitap_NangCao
-# Huynh Van Chi Khan
+# Strut nang cao
+# quan ly thue bao c/c++
+# quan ly sach c/c++
