@@ -29,7 +29,7 @@ void Menu()
     cout << "h. Dem so luong sach co gia tri lon hon 50000vnd. " << endl;
     cout << "i. Xuat thong tin cac cuon sach theo loai (Do nguoi dung nhap). " << endl;
     cout << "x. Dung chuong trinh. " << endl;
-    cout << "====================HET===================" << endl;
+    cout << "===============HET===============" << endl;
 }
 
 void xoaXuongDong(char x[])
